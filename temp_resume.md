@@ -1,5 +1,7 @@
 ---
 laout: page
+title: Temp Resume
+permalink: /temp_resume/
 ---
 
 <p style="text-align: center;"> Carl Elgin </p>
