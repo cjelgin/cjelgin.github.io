@@ -7,7 +7,7 @@ permalink: /about/
 
 
 
-<img src="./images/headshot.png" alt="headshot" width="300"/>
+<img src="/images/headshot.png" alt="headshot" width="300"/>
 In my professional life and in most of my personal endeavors, I can best describe myself as a Technical Strategist.
 
 I am technical in that I have a deeply rooted and omnipresent curiosity in all things I do and interact with. I embrace detail and utilize it on my journey to understanding. During childhood, there wasn’t a toy, or later a computer (Sorry, Mom and Dad), that I didn’t attempt to dismantle to satisfy my curiosity.
