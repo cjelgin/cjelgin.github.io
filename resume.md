@@ -1,4 +1,4 @@
 ---
-layout: resume
+layout: page
 permalink: /resume/
 ---
