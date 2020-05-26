@@ -7,7 +7,7 @@ permalink: /portfolio/
 ### Image Recognition Using Convolutional Neural Network in TensorFlow
 #### [Image Recognition - Classifying Bird Species from Image](https://github.com/cjelgin/bird_classifier)
 
-This project involved using transfer learning to train a CNN for the purpose of classifying images of birds into respective species. The images came from a publicly available dataset on Kaggle, and were used to train a CNN build on the popular Xception model using the TensorFlow framework for Python. The model is capable of classyfing birds into 175 different species with 98% accuracy. The source code and testing code are available in the GitHub repo, and a TensorFlow Serving Docker image pre-loaded with the model is available on DockerHub. With the Docker image, the model can be deoployed most anywhere, can be queried through a REST API, and supports versioning.
+This project involved using transfer learning to train a CNN for the purpose of classifying images of birds into respective species. The images came from a publicly available dataset on Kaggle, and were used to train a CNN build on the popular Xception model using the TensorFlow framework for Python. The model is capable of classyfing birds into 175 different species with 98% accuracy. The source code and testing code are available in the GitHub repo, and a TensorFlow Serving Docker image pre-loaded with the model is available on DockerHub. With the Docker image, the model can be deployed most anywhere, can be queried through a REST API, and supports versioning.
 
 ### Masters Thesis - KU Leuven June 2019
 #### Reliability Analysis of Mechanical Equipment in a Cement Production Plant
